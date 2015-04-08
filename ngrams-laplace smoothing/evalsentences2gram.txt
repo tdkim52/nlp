@@ -1,0 +1,124 @@
+SENTENCE
+DELETED: WORD
+HIGHEST: LIKELIHOOD | P(A|B): PROBABILITY
+
+<s> sale date and announcement of rates is set for tuesday march 17 1987 </s>
+DELETED: set
+LIKELY: expected | P(A|B): 0.00857040379061
+
+<s> the special dividend is to be paid july 27 </s>
+DELETED: be
+LIKELY: the | P(A|B): 0.0301340267049
+
+<s> the terms of the previously announced deal were not disclosed </s>
+DELETED: terms
+LIKELY: company | P(A|B): 0.0217215912617
+
+<s> mccormick and co inc mccrk 1st qtr feb 28 net </s>
+DELETED: 28
+LIKELY: 28 | P(A|B): 0.00357722132113
+
+<s> authorizations to purchase 50 mln dlrs worth of us wheat and wheat flour under public law 480 were issued to sudan today the agriculture department said </s>
+DELETED: department
+LIKELY: department | P(A|B): 0.00373827641125
+
+<s> no maximum or minimum price has been set </s>
+DELETED: has
+LIKELY: of | P(A|B): 0.00716437177281
+
+<s> recent heavy rains have not affected the peru coffee crop and producers are looking forward to a record harvest the president of one of perus four coffee cooperative groups said </s>
+DELETED: said
+LIKELY: of | P(A|B): 0.000245163590978
+
+<s> non callable for life the issue is rated a top flight aaa by moodys and standard and poors </s>
+DELETED: moodys
+LIKELY: the | P(A|B): 0.0294384495106
+
+<s> champion products ch sets pay date for split </s>
+DELETED: for
+LIKELY: is | P(A|B): 0.00292546707741
+
+<s> the legislation faces another hurdle in the full ways and means committee next week before the full house votes on it </s>
+DELETED: full
+LIKELY: company | P(A|B): 0.0217215912617
+
+<s> the company said the systems will be used in the c 17 military transport program </s>
+DELETED: the
+LIKELY: the | P(A|B): 0.085949677132
+
+<s> henley group heng sets fisher distribution </s>
+DELETED: fisher
+LIKELY: quarterly | P(A|B): 0.00164017997651
+
+<s> the company said it has agreed to sell the peter pan restaurant in urbana md for 1100000 dlrs or one mln dlrs after the payment of expenses </s>
+DELETED: it
+LIKELY: </s> | P(A|B): 0.112158286859
+
+<s> it said it might take legal action or seek the support of shareholders in calling a special meeting to replace the board and consider other proposals </s>
+DELETED: the
+LIKELY: the | P(A|B): 0.000491631097902
+
+<s> harcourt made a 50 dlrs a share unsolicited bid on march 11 </s>
+DELETED: on
+LIKELY: for | P(A|B): 0.00311684866705
+
+<s> azure ventures ltd said it signed a letter of intent to acquire john paul richards and associates inc </s>
+DELETED: ventures
+LIKELY: ventures | P(A|B): 2.18717875812e-05
+
+<s> late last year the gevaert group of belgium and west germanys veba ag vebgf said they had each acquired a 125 pct stake in hapag lloyd from deutsche bank ag dbkgf and dresdner bank ag drsdf industry sources estimate deutsche and dresdner hapag lloyds majority shareholders held about 75 pct of hapag lloyds share capital before selling portions of it to gevaert and veba </s>
+DELETED: and
+LIKELY: to | P(A|B): 0.000111751821555
+
+<s> raised were the units senior secured denver industrial revenue bonds to b 1 from ca and subordinated debt to b 3 from c </s>
+DELETED: b
+LIKELY: the | P(A|B): 0.0301340267049
+
+<s> standard and poors corp said it may downgrade mark iv industries incs 200 mln dlrs of b minus subordinated debt </s>
+DELETED: b
+LIKELY: the | P(A|B): 0.0837150724172
+
+<s> some of these are expected to be held for mixing in with early temporao arrivals </s>
+DELETED: be
+LIKELY: the | P(A|B): 0.0301340267049
+
+<s> the remainder would come from new borrowings partly from banks under a four year committed revolving credit facility and partly from a a new us dlr commercial paper programme </s>
+DELETED: would
+LIKELY: of | P(A|B): 0.000536384766673
+
+<s> the joint company will continue to print northern editions of the telegraph and sunday telegraph with spare capacity used to print the sun and news of the world </s>
+DELETED: and
+LIKELY: co | P(A|B): 0.000223643601557
+
+<s> lebanese central bank vice governor meguerditch bouldikian called for the establishment of an arab fund to assist the lebanese pound which has lost more than 80 pct of its value against the dollar since january 1986 </s>
+DELETED: 1986
+LIKELY: </s> | P(A|B): 0.0050303555941
+
+<s> traders said at least one other international trader made a similar contract while a french house sold two cargoes at an outright price of 233 dlrs cif without the option </s>
+DELETED: one
+LIKELY: one | P(A|B): 0.000466739270553
+
+<s> limits would be placed on the extension of credit by the bank to the associated institutions and all transactions would have to be on an arms length basis heller said </s>
+DELETED: by
+LIKELY: </s> | P(A|B): 0.00181412834412
+
+<s> the sources had said possible candidates for the governors job include prince abdul aziz ibn salman ibn abdul aziz who earlier ran a research center at saudi arabias university of petroleum and minerals and former deputy planning minister faisal beshir </s>
+DELETED: prince
+LIKELY: a | P(A|B): 0.00128529007667
+
+<s> shr 19 cts vs 38 cts net 397000 vs 788000 nine mths shr 80 cts vs 119 dlrs net 1674000 vs 2455000 note company would not provide assets deposits and loans figures </s>
+DELETED: loans
+LIKELY: the | P(A|B): 0.0219025365277
+
+<s> aice officials are now hoping colombia can use its contacts with brazil to suggest a compromise </s>
+DELETED: its
+LIKELY: of | P(A|B): 0.00243978175043
+
+<s> the average price of mexicos crude oil exports in first quarter 1987 will be 1525 dlrs per barrel according to preliminary figures issued in a press release by the state oil company petroleos mexicanos pemex it gave no direct comparison with the year ago figure but said crude and products sales were expected to rise to 199 billion dlrs this quarter 420 mln dlrs higher than expected and 22 pct better than the year ago quarter </s>
+DELETED: mexicos
+LIKELY: the | P(A|B): 0.0837150724172
+
+<s> amfac inc said it entered an agreement to sell the last remaining store of its original liberty house of california operation to h and s san mateo inc </s>
+DELETED: mateo
+LIKELY: miguel | P(A|B): 0.000758996338959
+

@@ -1,0 +1,124 @@
+SENTENCE
+DELETED: WORD
+HIGHEST: LIKELIHOOD | P(A|B): PROBABILITY
+
+<s> together with two other main shareholders it also advanced fermenta an additional 65 mln crowns until a new equity issue could be made </s>
+DELETED: equity
+LIKELY: york | P(A|B,C): 0.000598046381819
+
+<s> gencorp has agreed to sell two of its independent stations wor in the new york area and khj in los angeles </s>
+DELETED: angeles
+LIKELY: angeles | P(A|B,C): 0.000268444364905
+
+<s> gross national product grew 13 pct in the fourth quarter </s>
+DELETED: pct
+LIKELY: pct | P(A|B,C): 2.23758698619e-05
+
+<s> welbilt corp welb 4th qtr net </s>
+DELETED: qtr
+LIKELY: qtr | P(A|B,C): 2.23758698619e-05
+
+<s> the committee will consider all the pertinent facts and alternatives we intend to make a careful and informed decision but will proceed expeditiously to a conclusion knowlton said </s>
+DELETED: consider
+LIKELY: consider | P(A|B,C): 6.710658763e-05
+
+<s> japan could avoid a sharp rise in the value of the yen against the dollar if japan the us and other nations succeeded in restructuring their economies an advisory panel to the governments economic planning agency epa said </s>
+DELETED: succeeded
+LIKELY: to | P(A|B,C): 0.000134198165958
+
+<s> but nakasone still has a chance to soothe us tempers before or during his week long washington visit from april 29 some analysts said </s>
+DELETED: april
+LIKELY: april | P(A|B,C): 2.23758698619e-05
+
+<s> pemex signs 500 mln dlr japan loan for pipeline </s>
+DELETED: mln
+LIKELY: mln | P(A|B,C): 2.23758698619e-05
+
+<s> although the bank has not yet formally announced a definite intention to proceed with the auctions most market participants assume that they will go ahead </s>
+DELETED: most
+LIKELY: would | P(A|B,C): 6.71125925595e-05
+
+<s> disputes between the factories and the trade unions are threatening to delay the start of processing in the southern areas where beets are maturing very early this year </s>
+DELETED: threatening
+LIKELY: not | P(A|B,C): 4.47507383872e-05
+
+<s> the united states appears to have won a transatlantic battle by forcing the bundesbank to trim interest rates european economists said </s>
+DELETED: a
+LIKELY: approval | P(A|B,C): 4.47497370953e-05
+
+<s> s p said the move follows gurantees definitive agreement to be acquired by glendale federal savings and loan the fifth largest s and l in the us the combination with glendale should enhance the creditworthiness of guarantees debt s p said </s>
+DELETED: agreement
+LIKELY: agreement | P(A|B,C): 2.23758698619e-05
+
+<s> the embassys annual report on indonesian agriculture forecast coffee output in 1986 87 would be 577 mln bags of 60 kilograms each </s>
+DELETED: kilograms
+LIKELY: mln | P(A|B,C): 0.000268378323977
+
+<s> shr 86 cts vs 62 cts shr diluted 86 cts vs 59 cts net 280 mln vs 183 mln revs 5135 mln vs 5170 mln first half shr 203 dlrs vs 178 dlrs shr diluted 203 dlrs vs 161 dlrs net 659 mln vs 500 mln revs 111 billion vs 108 billion avg shrs 324 mln vs 281 mln avg shrs diluted 324 mln vs 324 mln note 1987 net includes gains of 645000 dlrs or two cts a share in quarter and 12290000 dlrs or four cts a share from reduced pension expense under new accounting procedures net in both 1987 periods also includes gain of 40 mln dlrs or 12 cts a share from sale of land in alabama </s>
+DELETED: share
+LIKELY: share | P(A|B,C): 0.00891888901184
+
+<s> urs corp urs 1st qtr jan 31 net </s>
+DELETED: 31
+LIKELY: 31 | P(A|B,C): 0.00372186316024
+
+<s> the british naval source said the silkworms were in place at at least two sites around the strait of hormuz but would not give the exact location </s>
+DELETED: british
+LIKELY: company | P(A|B,C): 0.0187284110535
+
+<s> for example the recent large sales of wheat to china 15 mln tonnes and egypt 20 mln tonnes were well below the breakeven export price it said </s>
+DELETED: 20
+LIKELY: </s> | P(A|B,C): 6.71231037723e-05
+
+<s> amerihealth inc ahth 4th qtr loss </s>
+DELETED: qtr
+LIKELY: qtr | P(A|B,C): 2.23758698619e-05
+
+<s> a deutsche bank spokesman here said he had no knowledge of a possible equity linked fiat bond </s>
+DELETED: equity
+LIKELY: merger | P(A|B,C): 0.000111709376885
+
+<s> asked by reporters after a speech before the national fitness foundation banquet what if any currency intervention levels had been set in paris baker replied we never talk about intervention baker also declined to comment on his views about the foreign exchange markets reaction to the accord </s>
+DELETED: talk
+LIKELY: talk | P(A|B,C): 4.47507383872e-05
+
+<s> at an airport news conference howard denied opposition charges that his trip had been a failure because he had returned empty handed </s>
+DELETED: denied
+LIKELY: denied | P(A|B,C): 2.23758698619e-05
+
+<s> venezuela to lend up to 125 mln barrels of oil </s>
+DELETED: mln
+LIKELY: billion | P(A|B,C): 0.000156585540444
+
+<s> in the market drop the stock of acquirors got clobbered more than the acquirees another analyst said </s>
+DELETED: acquirees
+LIKELY: yield | P(A|B,C): 0.000245092578151
+
+<s> opec conference president rilwanu lukman said the group was producing well below the 158 mln bpd ceiling it set in december partly because liftings had been delayed or postponed by customers unwilling to pay fixed opec prices </s>
+DELETED: by
+LIKELY: </s> | P(A|B,C): 4.47507383872e-05
+
+<s> port officials said they would meet association leaders today to try to resolve the dispute </s>
+DELETED: resolve
+LIKELY: resolve | P(A|B,C): 0.000156298843389
+
+<s> he pointed out that the regions debt rose by only 28 pct last year to a total 396 billion dlrs </s>
+DELETED: 28
+LIKELY: two | P(A|B,C): 8.94714474243e-05
+
+<s> about 300 mln dlrs of debt and preferred were outstanding at december 31 1986 </s>
+DELETED: and
+LIKELY: </s> | P(A|B,C): 0.00131321225071
+
+<s> qtly div 20 cts vs 19 1 2 cts prior pay june 20 record june 5 </s>
+DELETED: cts
+LIKELY: cts | P(A|B,C): 0.000290808223162
+
+<s> north west telecom nowt 4th qtr oper net </s>
+DELETED: net
+LIKELY: net | P(A|B,C): 0.000469504560901
+
+<s> until last week there were few indications the package would be ready anytime soon </s>
+DELETED: be
+LIKELY: be | P(A|B,C): 6.71231037723e-05
+
