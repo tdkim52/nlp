@@ -1,9 +1,8 @@
 #############################################################
-# Timothy Kim - W01011895
+# Timothy Kim
 # February 28, 2015
-# CSCI 404 @ 11am
 #
-# vtag1c.py - Homework #3
+# vtag1c.py
 #
 #
 # See report.pdf for full details
