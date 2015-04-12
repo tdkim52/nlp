@@ -1,10 +1,9 @@
 # 
-## CSCI 404/573 - Assignment 1
+## 
 
- # Minimum Edit Distance/Levenshtein - Question 2
+ # Minimum Edit Distance/Levenshtein
  # med.py - January 23, 2015
- # Derek Wheel - W
- # Timothy Kim - W01011895
+ # Timothy Kim
  
  # computes the minimum edit distance between two strings 
  # (target, source) supplied by command line at runtime

@@ -1,10 +1,9 @@
 # 
-## CSCI 404/573 - Assignment 2
 
  # N-Gram Models - Question 1
  # ngram.py - February 9, 2015
- # Timothy Kim - W01011895
- # Derek Wheel - W
+ # Timothy Kim
+
  
  # See report for documentation and comments
 
